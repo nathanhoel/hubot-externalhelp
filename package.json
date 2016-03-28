@@ -1,0 +1,22 @@
+{
+  "name": "hubot-externalhelp",
+  "description": "Loads help from external scripts.",
+  "version": "0.1.0",
+  "main": "src/externalhelp.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathanhoel/hubot-externalhelp.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "help",
+    "external"
+  ],
+  "author": "Nathan Hoel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathanhoel/hubot-externalhelp/issues"
+  },
+  "homepage": "https://github.com/nathanhoel/hubot-externalhelp"
+}
